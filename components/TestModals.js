@@ -60,7 +60,7 @@ const TestModals = () => {
               Claim Now
             </button>
             <button
-              className=" w-auto px-12 my-5 border border-red-100 h-10 hover:bg-red-700 hover:text-white   rounded-md text-red-600  hover:shadow-lg font-semibold"
+              className=" w-full px-12 my-5 border border-red-100 h-10 hover:bg-red-700 hover:text-white   rounded-md text-red-600  hover:shadow-lg font-semibold"
               onClick={() => setShowSecondModal(false)}
             >
               Close
